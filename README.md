@@ -14,6 +14,11 @@ Se você é um deles por favor envie 1 PULL REQUEST adicionando-se a lista abaix
   - Empresa: SpaceX
   - Mês/Ano: 09/2016
 
+- Github: [hc3](https://github.com/hc3)
+  - Nome: Eliel das Virgens Santos
+  - Vaga: fullstack
+  - Empresa: REALIZA T.I.
+  - Mês/Ano: 09/2016
 
 ## Projetos
 
