@@ -27,3 +27,11 @@ Se você é um deles por favor envie 1 PULL REQUEST adicionando-se a lista abaix
   - Empresa: Webschool
   - Mês/Ano: 09/2016
   - Link do projeto: site ou repositório no Github
+
+- Github: [astfarias](https://github.com/astfarias/)
+  - Nome: Alex Farias
+  - Projeto: AIDAX - Actionable Analytics
+  - Empresa: AIDAX
+  - Mês/Ano: 05/2016
+  - Link do projeto: https://github.com/AIDAX
+
