@@ -31,7 +31,7 @@ Se você é um deles por favor envie 1 PULL REQUEST adicionando-se a lista abaix
 - Github: [astfarias](https://github.com/astfarias/)
   - Nome: Alex Farias
   - Projeto: AIDAX - Actionable Analytics
-  - Empresa: AIDAX
+  - Empresa: [AIDAX](http://www.aidax.com.br)
   - Mês/Ano: 05/2016
   - Link do projeto: https://github.com/AIDAX
 
