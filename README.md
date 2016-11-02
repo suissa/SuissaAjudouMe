@@ -14,6 +14,7 @@ Se você é um deles por favor envie 1 PULL REQUEST adicionando-se a lista abaix
   - Empresa: SpaceX
   - Mês/Ano: 09/2016
 
+
 - Github: [hc3](https://github.com/hc3)
   - Nome: Eliel das Virgens Santos
   - Vaga: fullstack
@@ -33,6 +34,7 @@ Se você é um deles por favor envie 1 PULL REQUEST adicionando-se a lista abaix
   - Mês/Ano: 09/2016
   - Link do projeto: site ou repositório no Github
 
+
 - Github: [astfarias](https://github.com/astfarias/)
   - Nome: Alex Farias
   - Projeto: AIDAX - Actionable Analytics
@@ -40,3 +42,11 @@ Se você é um deles por favor envie 1 PULL REQUEST adicionando-se a lista abaix
   - Mês/Ano: 05/2016
   - Link do projeto: https://github.com/AIDAX
 
+
+- Github: [ednilsonamaral](https://github.com/ednilsonamaral/)
+  - Nome: Ednilson Amaral
+  - Vaga: Fullstack JS
+  - Projeto: AIDAX - Actionable Analytics
+  - Empresa: [AIDAX](http://www.aidax.com.br)
+  - Mês/Ano: 08/2016
+  - Link do projeto: https://github.com/AIDAX
