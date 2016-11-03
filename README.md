@@ -56,3 +56,8 @@ Se você é um deles por favor envie 1 PULL REQUEST adicionando-se a lista abaix
   - Projeto: Estudo de Angular.JS e Javascript
   - Mês/Ano: 05/16
   
+  
+- Github: [rjmunhoz](https://github.com/rjmunhoz)
+  - Nome: Rogério Munhoz
+  - Projeto: Bot para Telegram do BeMEAN
+  - Mês/Ano: 04/16
