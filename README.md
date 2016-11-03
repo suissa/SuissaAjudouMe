@@ -55,4 +55,8 @@ Se você é um deles por favor envie 1 PULL REQUEST adicionando-se a lista abaix
   - Nome: Wesley Junior
   - Projeto: Estudo de Angular.JS e Javascript
   - Mês/Ano: 05/16
-  
+
+- Github: [adelmojnr](https://github.com/adelmojnr/SuissaAjudouMe)
+  - Nome: Adelmo Junior
+  - Projeto: Estudo Front-End e JavaScript
+  - Mês/Ano: 11/16
