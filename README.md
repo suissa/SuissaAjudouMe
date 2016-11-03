@@ -62,6 +62,8 @@ Se você é um deles por favor envie 1 PULL REQUEST adicionando-se a lista abaix
   - Projeto: [Bot para Telegram do BeMEAN](https://github.com/Webschool-io/Bot-Telegram-BeMEAN)
   - Mês/Ano: 04/16
 
+## Estudos
+
 - Github: [adelmojnr](https://github.com/adelmojnr/SuissaAjudouMe)
   - Nome: Adelmo Junior
   - Projeto: Estudo Front-End e JavaScript
