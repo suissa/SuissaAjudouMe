@@ -50,3 +50,9 @@ Se você é um deles por favor envie 1 PULL REQUEST adicionando-se a lista abaix
   - Empresa: [AIDAX](http://www.aidax.com.br)
   - Mês/Ano: 08/2016
   - Link do projeto: https://github.com/AIDAX
+
+- Github: [wesleycsj](https://github.com/wesleycsj)
+  - Nome: Wesley Junior
+  - Projeto: Estudo de Angular.JS e Javascript
+  - Mês/Ano: 05/16
+  
