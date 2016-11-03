@@ -62,6 +62,12 @@ Se você é um deles por favor envie 1 PULL REQUEST adicionando-se a lista abaix
   - Projeto: [Bot para Telegram do BeMEAN](https://github.com/Webschool-io/Bot-Telegram-BeMEAN)
   - Mês/Ano: 04/16
 
+- Github: [luzmoraes](https://github.com/luzmoraes/)
+  - Nome: Anderson Moraes
+  - Projeto: YCONTROL
+  - Mês/Ano: 10/2016
+  - Link do projeto: https://github.com/luzmoraes/ycontrol
+
 ## Estudos
 
 - Github: [adelmojnr](https://github.com/adelmojnr/SuissaAjudouMe)
