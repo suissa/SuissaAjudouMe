@@ -59,5 +59,10 @@ Se você é um deles por favor envie 1 PULL REQUEST adicionando-se a lista abaix
   
 - Github: [rjmunhoz](https://github.com/rjmunhoz)
   - Nome: Rogério Munhoz
-  - Projeto: Bot para Telegram do BeMEAN
+  - Projeto: [Bot para Telegram do BeMEAN](https://github.com/Webschool-io/Bot-Telegram-BeMEAN)
   - Mês/Ano: 04/16
+
+- Github: [adelmojnr](https://github.com/adelmojnr/SuissaAjudouMe)
+  - Nome: Adelmo Junior
+  - Projeto: Estudo Front-End e JavaScript
+  - Mês/Ano: 11/16
