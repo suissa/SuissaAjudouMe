@@ -68,6 +68,12 @@ Se você é um deles por favor envie 1 PULL REQUEST adicionando-se a lista abaix
   - Mês/Ano: 10/2016
   - Link do projeto: https://github.com/luzmoraes/ycontrol
 
+- Github: [marcosflorencio](https://github.com/marcosflorencio/)
+  - Nome: Marcos Florencio
+  - Projeto: angular-material-facade
+  - Mês/Ano: 08/2016
+  - Link do projeto: https://github.com/marcosflorencio/angular-material-facade
+
 ## Estudos
 
 - Github: [adelmojnr](https://github.com/adelmojnr/SuissaAjudouMe)
